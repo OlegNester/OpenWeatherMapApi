@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="temp">-°C</string>
+    <string name="description">description</string>
+    <string name="speed">-m/s</string>
+    <string name="humidity">Humidity: -%</string>
+    <string name="visibility">Visibility: -m</string>
+    <string name="pressure">-hPa</string>
+    <string name="name">City</string>
+</resources>
